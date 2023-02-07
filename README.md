@@ -1,5 +1,6 @@
 # Goals
 Everything I am planning on studying/exploring or already have starting 2023
+
 1 - Next Js (been working with react long enough now and it's honestly getting boring)
 
 2 - Javascript - Refresh my knowledge of Javascript because I honestly seem to have forgotten a lot of important stuff.
